@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Memoonakram/Memoonakram/main/ChatGPT%20Image%20Apr%207%2C%202026%2C%2008_10_35%20PM.png" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mamoona Akram</h1>
 <h3 align="center">🚀 Junior Technical Manager | AI & Data Enthusiast | Future Tech Leader</h3>
 
