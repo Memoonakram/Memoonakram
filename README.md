@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mamoona Akram</h1>
-<h3 align="center">🚀 Junior Technical Manager | AI & Data Enthusiast</h3>
+<h3 align="center">🚀 Technical Manager | AI & Data Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+Data+%7C+Project+Management;Python+%7C+Automation+%7C+Analytics;Freelancer+%7C+Problem+Solver;Future+Tech+Leader&center=true&width=520&height=45">
@@ -20,8 +20,8 @@
 
 🌱 Previously:
 - **Freelancer (Fiverr & Upwork)** – Delivered AI, data analysis & automation solutions  
-- **Project Manager (Remote) – [Hero Host](https://www.hosthero.co.za/), Africa**  
-- **Junior Data & AI Analyst (Remote – UAE, Dubai) – [Dulce Bonito](https://dulcebonito.com/)**  
+- **Project Manager (Remote – Africa) – [Hero Host](https://www.hosthero.co.za/)**  
+- **Data & AI Analyst (Remote – UAE, Dubai) – [Dulce Bonito](https://dulcebonito.com/)**  
 
 🚀 Passionate about combining **AI + Data + Project Management** to build impactful solutions  
 
