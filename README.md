@@ -13,26 +13,27 @@
 
 ## 💼 About Me
 
-🔭 Currently working as **Project Coordinator at Silverlight Consultancy**  
-💡 Managing projects, coordinating teams & delivering tech solutions  
+🔭 Currently working at **[Silverlight Consultancy](#)** as a **Project Coordinator**, contributing to:  
+- AI Project Management & delivery  
+- Market Research & data-driven insights  
+- Cross-functional team coordination  
 
 🌱 Previously:
-- **Freelancer (Fiverr & Upwork)** – Delivered AI, data & automation solutions  
-- **Project Manager (Remote) – Hero Host, Africa**  
-- **Freelance AI Work – Expert Systems Solutions (Remote)**  
-- **Junior Data & AI Analyst – Dulce Bonito**  
+- **Freelancer (Fiverr & Upwork)** – Delivered AI, data analysis & automation solutions  
+- **Project Manager (Remote) – [Hero Host](#), Africa**  
+- **Junior Data & AI Analyst – [Dulce Bonito](#)**  
 
-🚀 Passionate about combining **AI + Data + Project Management** to solve real-world problems  
+🚀 Passionate about combining **AI + Data + Project Management** to build impactful solutions  
 
 ---
 
 ## ⚡ What I Do
 
-✔ Project Management (Agile / Scrum)  
-✔ Data Analysis & Dashboards  
-✔ Python Automation & Scripting  
-✔ AI & Machine Learning Basics  
+✔ AI Project Management & Delivery  
+✔ Market Research & Data Analysis  
+✔ Python Automation & Dashboards  
 ✔ Business + Technical Alignment  
+✔ Agile / Scrum Execution  
 
 ---
 
@@ -53,10 +54,10 @@
 ## 🚀 Projects
 
 🔹 **Project Tracking Dashboard**  
-- Built Python dashboard to monitor KPIs & team workload  
+- Built Python dashboard to monitor KPIs & team performance  
 
 🔹 **Process Automation Scripts**  
-- Automated reporting → saved **5+ hours/week**  
+- Automated reporting workflows → saved **5+ hours/week**  
 
 ---
 
@@ -92,7 +93,7 @@
 ## 🎯 Vision
 
 🚀 Becoming a **Top 1% Tech Leader in AI & Project Management**  
-💡 Building smart, scalable solutions for real-world impact  
+💡 Building intelligent, scalable solutions for real-world impact  
 
 ---
 
