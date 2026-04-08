@@ -13,15 +13,15 @@
 
 ## 💼 About Me
 
-🔭 Currently working at **[Silverlight Consultancy](#)** as a **Project Coordinator**, contributing to:  
+🔭 Currently working at **[Silverlight Consultancy](https://www.silverlightresearch.com/)** as a **Project Coordinator**, contributing to:  
 - AI Project Management & delivery  
 - Market Research & data-driven insights  
 - Cross-functional team coordination  
 
 🌱 Previously:
 - **Freelancer (Fiverr & Upwork)** – Delivered AI, data analysis & automation solutions  
-- **Project Manager (Remote) – [Hero Host](#), Africa**  
-- **Junior Data & AI Analyst – [Dulce Bonito](#)**  
+- **Project Manager (Remote) – [Hero Host](https://www.hosthero.co.za/), Africa**  
+- **Junior Data & AI Analyst – [Dulce Bonito](https://dulcebonito.com/)**  
 
 🚀 Passionate about combining **AI + Data + Project Management** to build impactful solutions  
 
