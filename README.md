@@ -21,7 +21,7 @@
 🌱 Previously:
 - **Freelancer (Fiverr & Upwork)** – Delivered AI, data analysis & automation solutions  
 - **Project Manager (Remote) – [Hero Host](https://www.hosthero.co.za/), Africa**  
-- **Junior Data & AI Analyst – [Dulce Bonito](https://dulcebonito.com/)**  
+- **Junior Data & AI Analyst (Remote – UAE, Dubai) – [Dulce Bonito](https://dulcebonito.com/)**  
 
 🚀 Passionate about combining **AI + Data + Project Management** to build impactful solutions  
 
