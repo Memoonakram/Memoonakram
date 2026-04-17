@@ -14,16 +14,16 @@
 ## 💼 About Me
 
 🔭 Currently working at **[Silverlight Consultancy](https://www.silverlightresearch.com/)** as a **Project Coordinator**, contributing to:  
-- AI Project Management & delivery  
-- Market Research & data-driven insights  
-- Cross-functional team coordination  
+- AI Project Management & Delivery  
+- Market Research & Data-Driven Insights  
+- Cross-Functional Team Coordination  
 
 🌱 Previously:
-- **Freelancer (Fiverr & Upwork)** – Delivered AI, data analysis & automation solutions  
+- **Freelancer (Fiverr & Upwork)** – Delivered AI, Data Analysis & Automation Solutions  
 - **Project Manager (Remote – Africa) – [Hero Host](https://www.hosthero.co.za/)**  
 - **Data & AI Analyst (Remote – UAE, Dubai) – [Dulce Bonito](https://dulcebonito.com/)**  
 
-🚀 Passionate about combining **AI + Data + Project Management** to build impactful solutions  
+🚀 Passionate about combining **AI + Data + Project Management** to build impactful, scalable solutions  
 
 ---
 
@@ -44,6 +44,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AI-ChatGPT%20%7C%20Claude-purple?style=for-the-badge">
   <img src="https://img.shields.io/badge/Tools-Jupyter%20%7C%20Anaconda-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Data-PowerBI%20%7C%20Tableau-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge">
@@ -54,7 +55,7 @@
 ## 🚀 Projects
 
 🔹 **Project Tracking Dashboard**  
-- Built Python dashboard to monitor KPIs & team performance  
+- Built a Python-based dashboard to monitor KPIs & team performance  
 
 🔹 **Process Automation Scripts**  
 - Automated reporting workflows → saved **5+ hours/week**  
