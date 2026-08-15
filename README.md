@@ -97,60 +97,6 @@ End-to-end data scraper pipeline using <b>Selenium, Pandas, and SQL</b> to parse
 <summary><b>⚡ Enterprise Workflow Automation & LLM Integration Agent</b></summary>
 <br />
 
-  ---
-
-## 💼 Professional Experience
-
-<details open>
-<summary><b>💼 Project Coordinator — Silverlight Consultancy, Pakistan</b> <i>(July 2025 – Present)</i></summary>
-<br />
-<ul>
-  <li>Coordinated multiple IT projects from initiation to delivery, ensuring strict adherence to timelines, budgets, and quality objectives[cite: 1].</li>
-  <li>Facilitated Agile ceremonies including sprint planning, daily standups, and retrospectives[cite: 1].</li>
-  <li>Liaised between clients and technical development teams to capture project requirements and monitor progress[cite: 1].</li>
-  <li>Implemented process improvements that reduced project delivery delays by <b>15%</b> and boosted operational efficiency[cite: 1].</li>
-</ul>
-</details>
-
-<details open>
-<summary><b>🛍️ Junior Data & AI Analyst — Dulce Bonito, Pakistan</b> <i>(June 2024 – May 2025)</i></summary>
-<br />
-<ul>
-  <li>Analyzed multi-channel customer behavior datasets using <b>Python (Pandas, Matplotlib) and SQL</b> to uncover purchasing trends and retention patterns[cite: 1].</li>
-  <li>Engineered predictive machine learning models for personalized product recommendations, increasing conversion rates[cite: 1].</li>
-  <li>Built automated BI dashboards tracking core metrics like Customer Lifetime Value (CLV), retention rates, and marketing ROI[cite: 1].</li>
-  <li>Executed data preprocessing and A/B testing on promotional datasets to optimize landing page performance[cite: 1].</li>
-</ul>
-</details>
-
-<details open>
-<summary><b>🤖 AI Developer — Hero Host, Africa</b> <i>(July 2023 – June 2024)</i></summary>
-<br />
-<ul>
-  <li>Developed an AI-driven shopping assistant integrated into a Chrome extension for real-time recommendation workflows[cite: 1].</li>
-  <li>Built a custom clothing size prediction system utilizing user body measurements with <b>TensorFlow & PyTorch</b>[cite: 1].</li>
-  <li>Constructed full-stack interface components leveraging <b>React</b> for the frontend and <b>Python (Flask/Django)</b> for the backend[cite: 1].</li>
-</ul>
-</details>
-
-<details open>
-<summary><b>⚙️ Python Intern — Expert Systems Solutions, Pakistan</b> <i>(Jan 2023 – June 2023)</i></summary>
-<br />
-<ul>
-  <li>Focused on developing Python-based Data Science solutions and Named Entity Recognition (NER) models[cite: 1].</li>
-  <li>Built automated web scrapers and preprocessed unstructured datasets to deliver clean data pipelines[cite: 1].</li>
-  <li>Collaborated with cross-functional technical teams to design and deploy scalable software components[cite: 1].</li>
-</ul>
-</details>
-<blockquote>
-Operational tracking dashboard built on <b>Python & Streamlit</b> embedded with Large Language Model prompts.
-<br /><br />
-• <b>Impact:</b> Automated multi-source extraction and technical bug log categorization, saving <b>5+ engineering hours per week</b>.
-</blockquote>
-</details>
-
----
-
 ## 📊 GitHub Performance Metrics
 
 <p align="center">
@@ -173,3 +119,49 @@ Operational tracking dashboard built on <b>Python & Streamlit</b> embedded with 
 <p align="center">
   <i>"Bridging technical software execution and project leadership to build production-grade AI solutions."</i>
 </p>
+
+---
+
+## 💼 Professional Experience
+
+<details open>
+<summary><b>💼 Project Coordinator — Silverlight Consultancy, Pakistan</b></summary>
+<br />
+<ul>
+  <li>Coordinated multiple IT projects from initiation to delivery, ensuring strict adherence to timelines, budgets, and quality objectives[cite: 1].</li>
+  <li>Facilitated Agile ceremonies including sprint planning, daily standups, and retrospectives[cite: 1].</li>
+  <li>Liaised between clients and technical development teams to capture project requirements and monitor progress[cite: 1].</li>
+  <li>Implemented process improvements that reduced project delivery delays by <b>15%</b> and boosted operational efficiency[cite: 1].</li>
+</ul>
+</details>
+
+<details open>
+<summary><b>🛍️ Junior Data & AI Analyst — Dulce Bonito, Pakistan</b></summary>
+<br />
+<ul>
+  <li>Analyzed multi-channel customer behavior datasets using <b>Python (Pandas, Matplotlib) and SQL</b> to uncover purchasing trends and retention patterns[cite: 1].</li>
+  <li>Engineered predictive machine learning models for personalized product recommendations, increasing conversion rates[cite: 1].</li>
+  <li>Built automated BI dashboards tracking core metrics like Customer Lifetime Value (CLV), retention rates, and marketing ROI[cite: 1].</li>
+  <li>Executed data preprocessing and A/B testing on promotional datasets to optimize landing page performance[cite: 1].</li>
+</ul>
+</details>
+
+<details open>
+<summary><b>🤖 AI Developer — Hero Host, Africa</b></summary>
+<br />
+<ul>
+  <li>Developed an AI-driven shopping assistant integrated into a Chrome extension for real-time recommendation workflows[cite: 1].</li>
+  <li>Built a custom clothing size prediction system utilizing user body measurements with <b>TensorFlow & PyTorch</b>[cite: 1].</li>
+  <li>Constructed full-stack interface components leveraging <b>React</b> for the frontend and <b>Python (Flask/Django)</b> for the backend[cite: 1].</li>
+</ul>
+</details>
+
+<details open>
+<summary><b>⚙️ Python Intern — Expert Systems Solutions, Pakistan</b></summary>
+<br />
+<ul>
+  <li>Focused on developing Python-based Data Science solutions and Named Entity Recognition (NER) models[cite: 1].</li>
+  <li>Built automated web scrapers and preprocessed unstructured datasets to deliver clean data pipelines[cite: 1].</li>
+  <li>Collaborated with cross-functional technical teams to design and deploy scalable software components[cite: 1].</li>
+</ul>
+</details>
