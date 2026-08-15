@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Memoonakram/Memoonakram/main/ChatGPT%20Image%20Apr%207%2C%202026%2C%2008_10_35%20PM.png" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/Memoonakram/Memoonakram/main/banner_v3.png" width="100%" alt="Header Banner" />
 </p>
 
 <!-- BIG & BOLD NAME -->
