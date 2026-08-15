@@ -2,9 +2,17 @@
   <img src="https://raw.githubusercontent.com/Memoonakram/Memoonakram/main/ChatGPT%20Image%20Apr%207%2C%202026%2C%2008_10_35%20PM.png" width="100%" alt="Header Banner" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mamoona+Akram;AI+Application+Engineer;Full-Stack+AI+Developer;Technical+Project+Manager;Certified+Scrum+Master+(CSM%C2%AE)&center=true&width=750&height=50&color=F75C7E&vCenter=true&size=28" />
-</h1>
+<!-- BIG & BOLD NAME -->
+<h1 align="center"><font color="#FFFFFF" size="7"><b>MAMOONA AKRAM</b></font></h1>
+
+<!-- ANIMATED WHITE SUBHEADING -->
+<div align="center">
+  <a href="https://linkedin.com/in/mamoona-akram-216a5b39b">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Application+Engineer;Full-Stack+AI+Developer;Technical+Project+Manager;Certified+Scrum+Master+(CSM%C2%AE)&center=true&width=750&height=40&color=FFFFFF&vCenter=true&size=22" alt="Animated Subheading" />
+  </a>
+</div>
+
+<br />
 
 <p align="center">
   <a href="https://linkedin.com/in/mamoona-akram-216a5b39b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,22 +26,36 @@
 
 ---
 
-## ⚡ Executive Summary
+<!-- WHAT I DO SECTION (SLIDE BOXES) -->
+## <font color="#FFFFFF">⚡ WHAT I DO</font>
 
-<table border="0">
+<table border="0" width="100%" cellspacing="8" cellpadding="12">
   <tr>
-    <td width="60%" valign="top">
-
-🚀 **Versatile AI Application Engineer & Technical Project Manager** combining hands-on software development with agile leadership. I bridge the gap between technical execution and business delivery—building production-grade RAG systems, micro-SaaS products, and automated pipelines while leading cross-functional teams.
-
-- 🎓 **AI Trainer & Consultant:** Leading a 24-week AI training initiative covering Prompt Engineering, ML foundations, and Agentic AI workflows.
-- 🛠️ **Full-Stack AI Engineering:** Building async backends with **FastAPI**, RAG architectures with **PGVector & Pinecone**, and frontend interfaces with **Streamlit / Next.js**.
-- 📊 **Project & Agile Leadership:** Certified Scrum Master (CSM®) with a track record of driving cross-functional delivery, optimizing team workflows with **ClickUp**, and reducing project delays at **Silverlight Consultancy**.
-- 💡 **Data & ML Background:** Engineered ML models, e-commerce recommendation engines, and automated data scraper pipelines at **Dulce Bonito** & **Hero Host**.
-
+    <td width="50%" valign="top" style="background-color: #1e293b; border: 1px solid #334155; border-radius: 8px;">
+      <h3><font color="#FFFFFF">AI & Full-Stack Engineering</font></h3>
+      <p style="color: #cbd5e1; font-size: 14px;">
+        Designing and deploying production-grade RAG pipelines, micro-SaaS platforms, and intelligent agentic workflows using <b>FastAPI, PostgreSQL/PGVector, Streamlit, and Next.js</b>.
+      </p>
     </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Memoonakram&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+    <td width="50%" valign="top" style="background-color: #1e293b; border: 1px solid #334155; border-radius: 8px;">
+      <h3><font color="#FFFFFF">Technical Project Management</font></h3>
+      <p style="color: #cbd5e1; font-size: 14px;">
+        <b>Certified Scrum Master (CSM®)</b> driving cross-functional software delivery, sprint planning, and team efficiency using <b>ClickUp</b> and Agile frameworks.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="background-color: #1e293b; border: 1px solid #334155; border-radius: 8px;">
+      <h3><font color="#FFFFFF">Data Engineering & Automation</font></h3>
+      <p style="color: #cbd5e1; font-size: 14px;">
+        Engineered ML models, e-commerce recommendation engines, and automated data scraper pipelines with <b>Selenium, Pandas, and SQL</b>.
+      </p>
+    </td>
+    <td width="50%" valign="top" style="background-color: #1e293b; border: 1px solid #334155; border-radius: 8px;">
+      <h3><font color="#FFFFFF">Technical Training & Mentorship</font></h3>
+      <p style="color: #cbd5e1; font-size: 14px;">
+        Leading AI training initiatives covering Prompt Engineering, Machine Learning foundations, Agentic AI, and practical tech skills.
+      </p>
     </td>
   </tr>
 </table>
