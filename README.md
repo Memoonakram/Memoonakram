@@ -128,10 +128,10 @@ End-to-end data scraper pipeline using <b>Selenium, Pandas, and SQL</b> to parse
 <summary><b>💼 Project Coordinator — Silverlight Consultancy, Pakistan</b></summary>
 <br />
 <ul>
-  <li>Coordinated multiple IT projects from initiation to delivery, ensuring strict adherence to timelines, budgets, and quality objectives[cite: 1].</li>
-  <li>Facilitated Agile ceremonies including sprint planning, daily standups, and retrospectives[cite: 1].</li>
-  <li>Liaised between clients and technical development teams to capture project requirements and monitor progress[cite: 1].</li>
-  <li>Implemented process improvements that reduced project delivery delays by <b>15%</b> and boosted operational efficiency[cite: 1].</li>
+  <li>Coordinated multiple IT projects from initiation to delivery, ensuring strict adherence to timelines, budgets, and quality objectives.</li>
+  <li>Facilitated Agile ceremonies including sprint planning, daily standups, and retrospectives.</li>
+  <li>Liaised between clients and technical development teams to capture project requirements and monitor progress.</li>
+  <li>Implemented process improvements that reduced project delivery delays by <b>15%</b> and boosted operational efficiency.</li>
 </ul>
 </details>
 
@@ -139,10 +139,10 @@ End-to-end data scraper pipeline using <b>Selenium, Pandas, and SQL</b> to parse
 <summary><b>🛍️ Junior Data & AI Analyst — Dulce Bonito, Pakistan</b></summary>
 <br />
 <ul>
-  <li>Analyzed multi-channel customer behavior datasets using <b>Python (Pandas, Matplotlib) and SQL</b> to uncover purchasing trends and retention patterns[cite: 1].</li>
-  <li>Engineered predictive machine learning models for personalized product recommendations, increasing conversion rates[cite: 1].</li>
-  <li>Built automated BI dashboards tracking core metrics like Customer Lifetime Value (CLV), retention rates, and marketing ROI[cite: 1].</li>
-  <li>Executed data preprocessing and A/B testing on promotional datasets to optimize landing page performance[cite: 1].</li>
+  <li>Analyzed multi-channel customer behavior datasets using <b>Python (Pandas, Matplotlib) and SQL</b> to uncover purchasing trends and retention patterns.</li>
+  <li>Engineered predictive machine learning models for personalized product recommendations, increasing conversion rates.</li>
+  <li>Built automated BI dashboards tracking core metrics like Customer Lifetime Value (CLV), retention rates, and marketing ROI.</li>
+  <li>Executed data preprocessing and A/B testing on promotional datasets to optimize landing page performance.</li>
 </ul>
 </details>
 
@@ -150,9 +150,9 @@ End-to-end data scraper pipeline using <b>Selenium, Pandas, and SQL</b> to parse
 <summary><b>🤖 AI Developer — Hero Host, Africa</b></summary>
 <br />
 <ul>
-  <li>Developed an AI-driven shopping assistant integrated into a Chrome extension for real-time recommendation workflows[cite: 1].</li>
-  <li>Built a custom clothing size prediction system utilizing user body measurements with <b>TensorFlow & PyTorch</b>[cite: 1].</li>
-  <li>Constructed full-stack interface components leveraging <b>React</b> for the frontend and <b>Python (Flask/Django)</b> for the backend[cite: 1].</li>
+  <li>Developed an AI-driven shopping assistant integrated into a Chrome extension for real-time recommendation workflows.</li>
+  <li>Built a custom clothing size prediction system utilizing user body measurements with <b>TensorFlow & PyTorch</b>.</li>
+  <li>Constructed full-stack interface components leveraging <b>React</b> for the frontend and <b>Python (Flask/Django)</b> for the backend.</li>
 </ul>
 </details>
 
@@ -160,8 +160,44 @@ End-to-end data scraper pipeline using <b>Selenium, Pandas, and SQL</b> to parse
 <summary><b>⚙️ Python Intern — Expert Systems Solutions, Pakistan</b></summary>
 <br />
 <ul>
-  <li>Focused on developing Python-based Data Science solutions and Named Entity Recognition (NER) models[cite: 1].</li>
-  <li>Built automated web scrapers and preprocessed unstructured datasets to deliver clean data pipelines[cite: 1].</li>
-  <li>Collaborated with cross-functional technical teams to design and deploy scalable software components[cite: 1].</li>
+  <li>Focused on developing Python-based Data Science solutions and Named Entity Recognition (NER) models.</li>
+  <li>Built automated web scrapers and preprocessed unstructured datasets to deliver clean data pipelines.</li>
+  <li>Collaborated with cross-functional technical teams to design and deploy scalable software components.</li>
 </ul>
 </details>
+
+---
+
+<!-- CORE SKILLS SECTION (SLIDE BOXES) -->
+## <font color="#FFFFFF">⚡ CORE COMPETENCIES & SKILLS</font>
+
+<table border="0" width="100%" cellspacing="8" cellpadding="12">
+  <tr>
+    <td width="50%" valign="top" style="background-color: #1e293b; border: 1px solid #334155; border-radius: 8px;">
+      <h3><font color="#FFFFFF">🤖 Data Science & AI</font></h3>
+      <p style="color: #cbd5e1; font-size: 14px;">
+        Machine Learning • Predictive Modeling • Statistical Analysis • LLMs & GenAI • Data Preprocessing • Natural Language Processing (NLP)
+      </p>
+    </td>
+    <td width="50%" valign="top" style="background-color: #1e293b; border: 1px solid #334155; border-radius: 8px;">
+      <h3><font color="#FFFFFF">🛠️ Data Engineering & Web</font></h3>
+      <p style="color: #cbd5e1; font-size: 14px;">
+        Python & SQL • Data Mining • Streamlit & REST APIs • Pandas, NumPy, Scikit-Learn • Web Scraping (Selenium) • PostgreSQL / Supabase
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="background-color: #1e293b; border: 1px solid #334155; border-radius: 8px;">
+      <h3><font color="#FFFFFF">📊 Analytics & BI</font></h3>
+      <p style="color: #cbd5e1; font-size: 14px;">
+        Business Intelligence • Data Visualization (Tableau/Matplotlib) • A/B Testing & Preprocessing • Customer Retention & CLV Modeling
+      </p>
+    </td>
+    <td width="50%" valign="top" style="background-color: #1e293b; border: 1px solid #334155; border-radius: 8px;">
+      <h3><font color="#FFFFFF">🎯 Management & Agile</font></h3>
+      <p style="color: #cbd5e1; font-size: 14px;">
+        Technical Project Management • Agile & Scrum (Certified CSM®) • Process Improvement • Team Leadership • Stakeholder Communication
+      </p>
+    </td>
+  </tr>
+</table>
