@@ -2,18 +2,12 @@
   <img src="https://raw.githubusercontent.com/Memoonakram/Memoonakram/main/ChatGPT%20Image%20Apr%207%2C%202026%2C%2008_10_35%20PM.png" width="100%" alt="Header Banner" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%90%8B,+I'm+Mamoona+Akram;AI+Application+Engineer;Technical+Project+Manager;Certified+Scrum+Master+(CSM%C2%AE)&center=true&width=600&height=50&color=F75C7E&vCenter=true&size=30" />
-</h1>
+<h1 align="center">Hi 👋, I'm Mamoona Akram</h1>
+<h3 align="center">⚡ AI Application Engineer | Full-Stack AI Developer & Technical Project Manager</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mamoona-akram-216a5b39b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mamoona.acc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://whatsapp.com/channel/0029VbD5YWT4CrfpY3kMO21b"><img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Memoonakram&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -102,6 +96,7 @@ Operational tracking dashboard built on <b>Python & Streamlit</b> embedded with 
 - 🤖 **AI Agents & Workflow Automation Specialization** – *Coursera*[cite: 1]
 - 🧠 **Generative AI with Large Language Models** – *DeepLearning.AI*[cite: 1]
 
+---
 
 <p align="center">
   <i>"Bridging technical software execution and project leadership to build production-grade AI solutions."</i>
