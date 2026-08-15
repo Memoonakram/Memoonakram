@@ -3,29 +3,31 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mamoona Akram</h1>
-<h3 align="center">⚡ AI Application Engineer | Full-Stack AI Developer & Technical Project Manager</h3>
+<h3 align="center">⚡ AI Application Engineer | Technical Project Manager | Certified Scrum Master (CSM)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Application+Engineer;RAG+%26+Vector+Databases;FastAPI+%2B+Streamlit+%2B+Next.js;Docker+%26+Cloud+Deployment;Technical+Project+Manager&center=true&width=560&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Application+Engineer;RAG+%26+Agentic+AI+Workflows;FastAPI+%2B+Streamlit+%2B+Next.js;Docker+%26+Cloud+Deployment;CSM%C2%AE+%7C+Technical+Project+Manager&center=true&width=580&height=45">
 </p>
 
 ---
 
 ## 💼 About Me
 
-🚀 **AI Application Engineer** blending hands-on full-stack AI development with strategic technical project leadership. I design, build, and deploy production-grade AI applications, RAG pipelines, and automated backend systems.
+🚀 **Versatile AI Application Engineer & Technical Project Manager** combining hands-on software development with agile leadership. I bridge the gap between technical execution and business delivery—building production-grade RAG systems, micro-SaaS products, and automated pipelines while leading cross-functional teams.
 
-- 🔭 **Currently:** Engineering end-to-end AI products & leading project workflows at **[Silverlight Consultancy](https://www.silverlightresearch.com/)**.
-- 🛠️ **Core Focus:** Building high-availability backends with **FastAPI**, vector search systems (**PGVector / Pinecone**), interactive frontends, and containerized deployments (**Docker/AWS**).
-- 🌱 **Previously:** Delivered remote AI, automation, and analytics projects across global regions (UAE, Africa, US) via freelance and consultancy roles.
+- 🎓 **AI Trainer & Consultant:** Leading a 24-week AI training initiative covering Prompt Engineering, ML foundations, and Agentic AI workflows[cite: 1].
+- 🛠️ **Full-Stack AI Engineering:** Building async backends with **FastAPI**, RAG architectures with **PGVector & Pinecone**, and frontend interfaces with **Streamlit / Next.js**.
+- 📊 **Project & Agile Leadership:** Certified Scrum Master (CSM)[cite: 1] with a track record of driving cross-functional delivery, optimizing team workflows, and reducing project delays at **Silverlight Consultancy**[cite: 1].
+- 💡 **Data & ML Background:** Engineered ML models, e-commerce recommendation engines, and automated data scraper pipelines at **Dulce Bonito** & **Hero Host**[cite: 1].
 
 ---
 
 ## 🛠️ Technical Stack & Capabilities
 
-### 🧠 Full-Stack AI & Engineering
+### 🐍 Core Development & IDEs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,supabase,docker,aws,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,postgres,docker,aws" />
+  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white">
 </p>
 
 ### 🤖 LLMs, RAG & Vector Search
@@ -38,7 +40,7 @@
   <img src="https://img.shields.io/badge/Agentic_Tool_Calling-APIs-FF6F61?style=for-the-badge">
 </p>
 
-### 💻 Web Development & Dashboards
+### 💻 Web Frameworks & Dashboards
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-Async_Backends-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Streamlit-AI_UI-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
@@ -46,19 +48,24 @@
   <img src="https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </p>
 
+### 📜 Certifications
+- **Certified Scrum Master (CSM®)** – Scrum Alliance[cite: 1]
+- **AI Agents & Workflow Automation Specialization** – Coursera[cite: 1]
+- **Generative AI with Large Language Models** – DeepLearning.AI[cite: 1]
+
 ---
 
-## 🚀 Live Projects & Commercial Micro-SaaS
+## 🚀 Key Projects & Micro-SaaS
 
-🔹 **Production AI Micro-SaaS Platform** *(Featured Project)*
-- **Architecture:** Built with FastAPI, PostgreSQL/PGVector, Streamlit UI, and deployed via Docker on Cloud Infrastructure.
-- **Key Features:** End-to-end RAG architecture, secure user authentication, and third-party API tool calling.
+🔹 **Production AI Micro-SaaS Platform** *(Featured)*
+- Built using **FastAPI, PostgreSQL/PGVector, Streamlit**, and deployed via **Docker** on cloud infrastructure.
+- Integrates complete RAG workflow, user authentication, and multi-API tool calling.
 
-🔹 **Enterprise RAG Knowledge System**
-- Developed a high-performance vector retrieval engine utilizing Pinecone and Claude 3.5 Sonnet to query complex multi-document repositories in real time.
+🔹 **Automated E-Commerce Competitor Intelligence Pipeline**[cite: 1]
+- End-to-end data pipeline built with Selenium, Pandas, and SQL to extract competitor catalog and pricing trends into automated dynamic dashboards[cite: 1].
 
-🔹 **Automated Data & KPI Analytics Pipeline**
-- Built automated Python-driven reporting and KPI dashboards, reducing team manual workload by **5+ hours weekly**.
+🔹 **Enterprise Workflow Automation & LLM Integration Agent**[cite: 1]
+- Created custom Python & Streamlit operational tracking tools with embedded LLMs to categorize technical bug logs and automate multi-source reporting (saved 5+ hours/week)[cite: 1].
 
 ---
 
@@ -75,7 +82,7 @@
 
 ## 📢 Community & Leadership
 
-🔥 I lead a fast-growing tech community sharing practical AI workflows, agentic architectures, and career growth strategies:
+🔥 I lead a dedicated tech community sharing practical AI workflows, agentic architectures, and skill-building strategies:
 👉 **[Join my WhatsApp Channel: AI Rise (Skill Up to Top 1%)](https://whatsapp.com/channel/0029VbD5YWT4CrfpY3kMO21b)**
 
 ---
