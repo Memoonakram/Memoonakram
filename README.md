@@ -16,12 +16,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/mamoona-akram-216a5b39b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
   <a href="mailto:mamoona.acc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://whatsapp.com/channel/0029VbD5YWT4CrfpY3kMO21b"><img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Memoonakram&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -125,13 +121,6 @@ Operational tracking dashboard built on <b>Python & Streamlit</b> embedded with 
 - 🎓 **Applied AI & Machine Learning Mastery** – *Udemy*
 - ⚙️ **AI Agents & Workflow Automation Specialization** – *Coursera*
 - 🧠 **Generative AI with Large Language Models** – *DeepLearning.AI*
-
----
-
-## 📢 Community Leadership
-
-🔥 I run a fast-growing tech community delivering daily insight on practical AI, Agentic workflows, and career scaling:  
-👉 **[Join WhatsApp Channel: AI Rise (Skill Up to Top 1%)](https://whatsapp.com/channel/0029VbD5YWT4CrfpY3kMO21b)**
 
 ---
 
