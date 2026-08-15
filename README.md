@@ -2,7 +2,7 @@
 
   <!-- Animated Dynamic Typing Banner -->
   <a href="https://linkedin.com/in/mamoona-akram-216a5b39b">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&height=50&lines=Mamoona+Akram;AI+Application+Engineer;Full-Stack+AI+Developer;Technical+Project+Manager;Certified+Scrum+Master+(CSM%C2%AE)" alt="Header Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&height=50&lines=Mamoona+Akram;AI+Application+Engineer;Full-Stack+AI+Developer;Technical+Project+Manager;Certified+Scrum+Master+(CSM%C2%AE)" alt="Header Typing SVG" />
   </a>
 
   <p align="center">
