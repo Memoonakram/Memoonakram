@@ -14,23 +14,12 @@
 
 ## ⚡ Executive Summary
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-
 🚀 **Versatile AI Application Engineer & Technical Project Manager** combining hands-on software development with agile leadership[cite: 1]. I bridge the gap between technical execution and business delivery—building production-grade RAG systems, micro-SaaS products, and automated pipelines while leading cross-functional teams[cite: 1].
 
 - 🎓 **AI Trainer & Consultant:** Leading a 24-week AI training initiative covering Prompt Engineering, ML foundations, and Agentic AI workflows[cite: 1].
 - 🛠️ **Full-Stack AI Engineering:** Building async backends with **FastAPI**, RAG architectures with **PGVector & Pinecone**, and frontend interfaces with **Streamlit / Next.js**.
 - 📊 **Project & Agile Leadership:** Certified Scrum Master (CSM®)[cite: 1] with a track record of driving cross-functional delivery, optimizing team workflows with **ClickUp**, and reducing project delays at **Silverlight Consultancy**[cite: 1].
 - 💡 **Data & ML Background:** Engineered ML models, e-commerce recommendation engines, and automated data scraper pipelines at **Dulce Bonito** & **Hero Host**[cite: 1].
-
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Memoonakram&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ---
 
