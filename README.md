@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Memoonakram/Memoonakram/main/banner_v3.png" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/Memoonakram/Memoonakram/main/Hello.png" width="100%" alt="Header Banner" />
 </p>
 
 <!-- BIG & BOLD NAME -->
